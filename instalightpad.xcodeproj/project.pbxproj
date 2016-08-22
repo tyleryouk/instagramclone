@@ -8,20 +8,54 @@
 
 /* Begin PBXBuildFile section */
 		36BEA3641D56591E002B1E77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BEA3631D56591E002B1E77 /* AppDelegate.swift */; };
-		36BEA3661D56591E002B1E77 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BEA3651D56591E002B1E77 /* ViewController.swift */; };
 		36BEA3691D56591E002B1E77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36BEA3671D56591E002B1E77 /* Main.storyboard */; };
 		36BEA36B1D56591E002B1E77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36BEA36A1D56591E002B1E77 /* Assets.xcassets */; };
 		36BEA36E1D56591E002B1E77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36BEA36C1D56591E002B1E77 /* LaunchScreen.storyboard */; };
+		36BEA3761D565965002B1E77 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA3751D565965002B1E77 /* libsqlite3.tbd */; };
+		36BEA3781D56596D002B1E77 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA3771D56596D002B1E77 /* libz.tbd */; };
+		36BEA37A1D565975002B1E77 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA3791D565975002B1E77 /* AudioToolbox.framework */; };
+		36BEA37C1D56597A002B1E77 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA37B1D56597A002B1E77 /* CFNetwork.framework */; };
+		36BEA37E1D565980002B1E77 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA37D1D565980002B1E77 /* CoreGraphics.framework */; };
+		36BEA3801D565985002B1E77 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA37F1D565985002B1E77 /* CoreLocation.framework */; };
+		36BEA3821D56598A002B1E77 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA3811D56598A002B1E77 /* QuartzCore.framework */; };
+		36BEA3841D565990002B1E77 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA3831D565990002B1E77 /* Security.framework */; };
+		36BEA3861D565999002B1E77 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA3851D565999002B1E77 /* StoreKit.framework */; };
+		36BEA3881D5659A0002B1E77 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA3871D5659A0002B1E77 /* SystemConfiguration.framework */; };
+		36BEA38B1D565A8E002B1E77 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA3891D565A8E002B1E77 /* Bolts.framework */; };
+		36BEA38C1D565A8E002B1E77 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36BEA38A1D565A8E002B1E77 /* Parse.framework */; };
+		36BEA38E1D56632A002B1E77 /* new-suicide-squad-trailer-reveals-that-harley-quinn-is-secretly-working-with-the-joker-a-1066983.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36BEA38D1D56632A002B1E77 /* new-suicide-squad-trailer-reveals-that-harley-quinn-is-secretly-working-with-the-joker-a-1066983.jpg */; };
+		36BEA3921D566E25002B1E77 /* signinVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BEA3911D566E25002B1E77 /* signinVC.swift */; };
+		36BEA3951D566E85002B1E77 /* resetPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BEA3941D566E85002B1E77 /* resetPasswordVC.swift */; };
+		36BEA3971D566F0C002B1E77 /* signUPVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BEA3961D566F0C002B1E77 /* signUPVC.swift */; };
+		36BEA3991D567D81002B1E77 /* Google-Plus-Generic-Avatar-Blue.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36BEA3981D567D81002B1E77 /* Google-Plus-Generic-Avatar-Blue.jpg */; };
+		36BEA39B1D568736002B1E77 /* avatar_720-vflYJnzBZ.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BEA39A1D568736002B1E77 /* avatar_720-vflYJnzBZ.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		36BEA3601D56591E002B1E77 /* instalightpad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = instalightpad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36BEA3631D56591E002B1E77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		36BEA3651D56591E002B1E77 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		36BEA3681D56591E002B1E77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		36BEA36A1D56591E002B1E77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36BEA36D1D56591E002B1E77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		36BEA36F1D56591E002B1E77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36BEA3751D565965002B1E77 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		36BEA3771D56596D002B1E77 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		36BEA3791D565975002B1E77 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		36BEA37B1D56597A002B1E77 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		36BEA37D1D565980002B1E77 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		36BEA37F1D565985002B1E77 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		36BEA3811D56598A002B1E77 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		36BEA3831D565990002B1E77 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		36BEA3851D565999002B1E77 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		36BEA3871D5659A0002B1E77 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		36BEA3891D565A8E002B1E77 /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		36BEA38A1D565A8E002B1E77 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
+		36BEA38D1D56632A002B1E77 /* new-suicide-squad-trailer-reveals-that-harley-quinn-is-secretly-working-with-the-joker-a-1066983.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "new-suicide-squad-trailer-reveals-that-harley-quinn-is-secretly-working-with-the-joker-a-1066983.jpg"; path = "../new-suicide-squad-trailer-reveals-that-harley-quinn-is-secretly-working-with-the-joker-a-1066983.jpg"; sourceTree = "<group>"; };
+		36BEA3911D566E25002B1E77 /* signinVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = signinVC.swift; sourceTree = "<group>"; };
+		36BEA3941D566E85002B1E77 /* resetPasswordVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = resetPasswordVC.swift; sourceTree = "<group>"; };
+		36BEA3961D566F0C002B1E77 /* signUPVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = signUPVC.swift; sourceTree = "<group>"; };
+		36BEA3981D567D81002B1E77 /* Google-Plus-Generic-Avatar-Blue.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Google-Plus-Generic-Avatar-Blue.jpg"; sourceTree = "<group>"; };
+		36BEA39A1D568736002B1E77 /* avatar_720-vflYJnzBZ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "avatar_720-vflYJnzBZ.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +63,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36BEA3881D5659A0002B1E77 /* SystemConfiguration.framework in Frameworks */,
+				36BEA3861D565999002B1E77 /* StoreKit.framework in Frameworks */,
+				36BEA3841D565990002B1E77 /* Security.framework in Frameworks */,
+				36BEA3821D56598A002B1E77 /* QuartzCore.framework in Frameworks */,
+				36BEA3801D565985002B1E77 /* CoreLocation.framework in Frameworks */,
+				36BEA37E1D565980002B1E77 /* CoreGraphics.framework in Frameworks */,
+				36BEA37C1D56597A002B1E77 /* CFNetwork.framework in Frameworks */,
+				36BEA37A1D565975002B1E77 /* AudioToolbox.framework in Frameworks */,
+				36BEA38B1D565A8E002B1E77 /* Bolts.framework in Frameworks */,
+				36BEA3781D56596D002B1E77 /* libz.tbd in Frameworks */,
+				36BEA38C1D565A8E002B1E77 /* Parse.framework in Frameworks */,
+				36BEA3761D565965002B1E77 /* libsqlite3.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -54,14 +100,40 @@
 		36BEA3621D56591E002B1E77 /* instalightpad */ = {
 			isa = PBXGroup;
 			children = (
+				36BEA3911D566E25002B1E77 /* signinVC.swift */,
+				36BEA3941D566E85002B1E77 /* resetPasswordVC.swift */,
+				36BEA3961D566F0C002B1E77 /* signUPVC.swift */,
 				36BEA3631D56591E002B1E77 /* AppDelegate.swift */,
-				36BEA3651D56591E002B1E77 /* ViewController.swift */,
 				36BEA3671D56591E002B1E77 /* Main.storyboard */,
 				36BEA36A1D56591E002B1E77 /* Assets.xcassets */,
 				36BEA36C1D56591E002B1E77 /* LaunchScreen.storyboard */,
 				36BEA36F1D56591E002B1E77 /* Info.plist */,
+				36BEA3931D566E3A002B1E77 /* Frameworks */,
+				36BEA38D1D56632A002B1E77 /* new-suicide-squad-trailer-reveals-that-harley-quinn-is-secretly-working-with-the-joker-a-1066983.jpg */,
+				36BEA3981D567D81002B1E77 /* Google-Plus-Generic-Avatar-Blue.jpg */,
+				36BEA39A1D568736002B1E77 /* avatar_720-vflYJnzBZ.png */,
 			);
 			path = instalightpad;
+			sourceTree = "<group>";
+		};
+		36BEA3931D566E3A002B1E77 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				36BEA3891D565A8E002B1E77 /* Bolts.framework */,
+				36BEA38A1D565A8E002B1E77 /* Parse.framework */,
+				36BEA3871D5659A0002B1E77 /* SystemConfiguration.framework */,
+				36BEA3851D565999002B1E77 /* StoreKit.framework */,
+				36BEA3831D565990002B1E77 /* Security.framework */,
+				36BEA3811D56598A002B1E77 /* QuartzCore.framework */,
+				36BEA37F1D565985002B1E77 /* CoreLocation.framework */,
+				36BEA37D1D565980002B1E77 /* CoreGraphics.framework */,
+				36BEA37B1D56597A002B1E77 /* CFNetwork.framework */,
+				36BEA3791D565975002B1E77 /* AudioToolbox.framework */,
+				36BEA3771D56596D002B1E77 /* libz.tbd */,
+				36BEA3751D565965002B1E77 /* libsqlite3.tbd */,
+			);
+			name = Frameworks;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,7 +196,10 @@
 			files = (
 				36BEA36E1D56591E002B1E77 /* LaunchScreen.storyboard in Resources */,
 				36BEA36B1D56591E002B1E77 /* Assets.xcassets in Resources */,
+				36BEA39B1D568736002B1E77 /* avatar_720-vflYJnzBZ.png in Resources */,
 				36BEA3691D56591E002B1E77 /* Main.storyboard in Resources */,
+				36BEA3991D567D81002B1E77 /* Google-Plus-Generic-Avatar-Blue.jpg in Resources */,
+				36BEA38E1D56632A002B1E77 /* new-suicide-squad-trailer-reveals-that-harley-quinn-is-secretly-working-with-the-joker-a-1066983.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +210,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36BEA3661D56591E002B1E77 /* ViewController.swift in Sources */,
+				36BEA3921D566E25002B1E77 /* signinVC.swift in Sources */,
 				36BEA3641D56591E002B1E77 /* AppDelegate.swift in Sources */,
+				36BEA3971D566F0C002B1E77 /* signUPVC.swift in Sources */,
+				36BEA3951D566E85002B1E77 /* resetPasswordVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +328,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = instalightpad/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.instalightpad;
@@ -262,6 +343,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = instalightpad/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.instalightpad;
@@ -288,6 +373,7 @@
 				36BEA3741D56591E002B1E77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
